@@ -1,0 +1,9 @@
+{
+  "_comment_dates_format": "Dates format : dd/mm/yy or mm/dd/yy depending on Avaya",
+  "_comment_parties_filter": "filter to get exact result format : ext(Firstname,Lastname)",
+  "_comment_time_format": "Dates format : (hr:min:sec)-24hr or (hr:min:sec AM/PM)-12hr depending on avaya",
+  "end_date": "25/02/21",
+  "parties": "7283",
+  "start_date": "25/02/21",
+  "start_time": "15:57:21"
+}

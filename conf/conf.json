@@ -1,0 +1,9 @@
+{
+  "_avaya_login_name": "Existing user login name on avaya",
+  "_avaya_secret": "Existing user password is optional and user preferred configuration",
+  "_calls_download_folder_local_machine": "folder in local machine, set from mock call download from avaya",
+  "_calls_download_path_format": "double back slash in folder path is mandatory",
+  "user": "george.wanjohi",
+  "secret": "",
+  "download_dir": "C:/Users/a188656/Documents/files/Avaya"
+}
