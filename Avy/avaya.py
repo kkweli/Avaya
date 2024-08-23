@@ -21,7 +21,7 @@ import browser
 class Avaya:
     # load credits
     dateCred = datetime.now()
-    pgcreds = ["App: Avaya Recordings Bulk Download", "Version: Selenium ARBD-0.0.1", "Owner : Stanbic Bank LTD"]
+    pgcreds = ["App: Avaya Recordings Bulk Download", "Version: Selenium ARBD-0.0.1", "Owner : Kkwlei"]
     print('\n'.join(map(str, pgcreds)))
     print("Date : {0} {1}".format(dateCred.year, dateCred.strftime("%A")))
     # load config params
